@@ -1,0 +1,7 @@
+assets/
+.env
+reddit-bot-351418-5560ebc49cac.json
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
